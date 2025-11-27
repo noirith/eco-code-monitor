@@ -1,13 +1,13 @@
 {
-  "name": "electrondashboard",
-  "version": "1.0.0",
-  "description": "Dashboard de Erros",
+  "name": "ecocode-monitor-dashboard",
+  "version": "2.0.0",
+  "description": "Dashboard de Monitoramento de Impacto Ambiental",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["sustainability", "green-software", "monitoring", "environmental"],
+  "author": "Seu Nome",
   "license": "ISC",
   "devDependencies": {
     "electron": "^37.0.0"
