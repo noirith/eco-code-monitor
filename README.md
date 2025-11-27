@@ -1,6 +1,6 @@
 # 🌱 EcoCode Monitor
 
-<img width="1914" height="1060" alt="image" src="https://github.com/user-attachments/assets/d358c64d-1dfd-4c77-9035-006954312f97" />
+<img width="1918" height="1056" alt="image" src="https://github.com/user-attachments/assets/25e88ae5-83f9-4478-9b11-3fd423c247b9" />
 
 
 > **Sistema de Monitoramento de Impacto Ambiental de Aplicações**  
